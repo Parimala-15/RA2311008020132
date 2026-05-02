@@ -40,7 +40,7 @@ Returns optimized vehicle selection for each depot.
 
 **Response Format:**
 
-```json
+
 [
   {
     "depotId": 1,
