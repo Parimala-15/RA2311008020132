@@ -183,16 +183,7 @@ O(n × capacity)
 B.Tech Information Technology
 SRM Institute of Science and Technology
 
----
 
-## ✅ Status
-
-✔ Backend Completed
-✔ Frontend Completed
-✔ System Design Document Added
-✔ GitHub Deployment Done
-
----
 
 ## ⭐ Future Improvements
 
